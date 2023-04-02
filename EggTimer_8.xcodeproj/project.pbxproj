@@ -13,7 +13,7 @@
 		E40A08B529D99C6E00AE2DBB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E40A08B329D99C6E00AE2DBB /* Main.storyboard */; };
 		E40A08B729D99C7000AE2DBB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E40A08B629D99C7000AE2DBB /* Assets.xcassets */; };
 		E40A08BA29D99C7000AE2DBB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E40A08B829D99C7000AE2DBB /* LaunchScreen.storyboard */; };
-		E40A08C229D9A01200AE2DBB /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E40A08C129D9A01200AE2DBB /* alarm_sound.mp3 */; };
+		E40A08E629D9B2B500AE2DBB /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E40A08E529D9B2B500AE2DBB /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		E40A08B629D99C7000AE2DBB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E40A08B929D99C7000AE2DBB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E40A08BB29D99C7000AE2DBB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E40A08C129D9A01200AE2DBB /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = alarm_sound.mp3; path = ../../EggTimer_Angeela_8/EggTimer/alarm_sound.mp3; sourceTree = "<group>"; };
+		E40A08E529D9B2B500AE2DBB /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +64,7 @@
 				E40A08B329D99C6E00AE2DBB /* Main.storyboard */,
 				E40A08B629D99C7000AE2DBB /* Assets.xcassets */,
 				E40A08B829D99C7000AE2DBB /* LaunchScreen.storyboard */,
-				E40A08C129D9A01200AE2DBB /* alarm_sound.mp3 */,
+				E40A08E529D9B2B500AE2DBB /* alarm_sound.mp3 */,
 				E40A08BB29D99C7000AE2DBB /* Info.plist */,
 			);
 			path = EggTimer_8;
@@ -129,8 +129,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				E40A08BA29D99C7000AE2DBB /* LaunchScreen.storyboard in Resources */,
+				E40A08E629D9B2B500AE2DBB /* alarm_sound.mp3 in Resources */,
 				E40A08B729D99C7000AE2DBB /* Assets.xcassets in Resources */,
-				E40A08C229D9A01200AE2DBB /* alarm_sound.mp3 in Resources */,
 				E40A08B529D99C6E00AE2DBB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

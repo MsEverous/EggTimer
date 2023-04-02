@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var progressBar: UIProgressView!
     @IBOutlet weak var titlleLabel: UILabel!
     
-    let timeEggs = ["Soft": 5 * 60 , "Medium": 7 * 60, "Hard": 12 * 60]
+    let timeEggs = ["Soft": 5 , "Medium": 7 * 60, "Hard": 12 * 60]
     var secondPassed = 0
     var totalTime = 0
     var time = Timer()
