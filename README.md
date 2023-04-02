@@ -4,8 +4,7 @@
 
 We  built a beautiful egg timer app to boil our eggs to perfection depending on how we prefer eggs.
 
-![Interface](Documentation/Interface.png)
-<img src="Documentation/Interface.png" width="500">
+<img src="Documentation/Interface.png" width="300">
 
 ## What we used
 
