@@ -4,6 +4,8 @@
 
 We  built a beautiful egg timer app to boil our eggs to perfection depending on how we prefer eggs.
 
+![Interface](Documentation/Interface.png)
+
 ## What we used
 
 * Swift Collection types - Dictionaries
